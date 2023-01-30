@@ -4,5 +4,5 @@
 
 ## Базовая ссылка на объект
 ```
-https://raw.githubusercontent.com/nikitanightness/public/master/<path>
+https://raw.githubusercontent.com/nikitanightness/public/main/<path>
 ```
