@@ -1,4 +1,4 @@
-<h1><img src="./repo/readme-md-64.png"> renzee`s Public Assets</h1>
+<h1><img src="./repo/readme-md-24.png"> renzee`s Public Assets</h1>
 
 Public storage of my assets.<br/><br/>
 
