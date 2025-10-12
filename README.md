@@ -1,8 +1,8 @@
-<h1><img src="https://raw.githubusercontent.com/nikitanightness/public/main/repo/readme-md-24.png"> renzee`s public assets</h1>
+<h1><img src="./repo/readme-md-32.png"> renzee`s Public Assets</h1>
 
-Хранилище моих публичных ассетов и файлов.<br/><br/>
+Public storage of my assets.<br/><br/>
 
-## Базовая ссылка на объект
+## Base URL
 ```
 https://raw.githubusercontent.com/nikitanightness/public/main/<path>
 ```
